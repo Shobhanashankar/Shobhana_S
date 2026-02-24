@@ -6,10 +6,24 @@
 
 ### 📊 Quick dashboard
 
-- 🔭 Focus areas: **AI for Security, VoIP fraud, malware classification, DNS anomaly detection, OSINT tooling, neural cryptanalysis**
-- 📂 Projects: **6+ security dashboards / consoles** (VoIP, malware, DNS, OSINT, study assistant, second brain)
-- 🧪 Research: **CNN-based bit prediction & neural differential cryptanalysis** on lightweight block ciphers
-- 💻 Comfort zone: **Python • ML backends • Flask / FastAPI • React • Azure**
+<p align="center">
+  <!-- Badges row 1 -->
+  <img src="https://img.shields.io/badge/AI%20%26%20Cybersecurity-ACTIVE-brightgreen?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/Projects-6%2B%20SECURITY%20DASHBOARDS-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Research-NEURAL%20CRYPTANALYSIS-purple?style=for-the-badge&logo=protobuf" />
+</p>
+
+<p align="center">
+  <!-- Badges row 2: tech stack -->
+  <img src="https://img.shields.io/badge/Python-ML%20%7C%20BACKEND-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Frameworks-FLASK%20%7C%20FASTAPI%20%7C%20REACT-orange?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Security-VOIP%20%7C%20DNS%20%7C%20OSINT-red?style=for-the-badge&logo=protonvpn" />
+</p>
+
+- 🔭 Focus areas: **AI for Security, VoIP fraud, malware classification, DNS anomaly detection, OSINT tooling, neural cryptanalysis**  
+- 📂 Projects: **6+ security dashboards / consoles** (VoIP, malware, DNS, OSINT, study assistant, second brain)  
+- 🧪 Research: **CNN-based bit prediction & neural differential cryptanalysis** on lightweight block ciphers  
+- 💻 Comfort zone: **Python • ML backends • Flask / FastAPI • React • Azure**  
 - 🛡 Security themes: **VoIP | DNS | OSINT | threat intelligence**
 
 ---
