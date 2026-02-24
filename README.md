@@ -70,9 +70,9 @@
 - 💻 **Languages:** Python, C/C++, JavaScript, SQL  
 - 🧮 **ML / AI:** TensorFlow, Scikit-learn, XGBoost, SHAP, Ray  
 - 🔐 **Security:** VoIP security, honeypots, KF sensors, Wireshark, RTP analysis, threat intel, OSINT  
-- 🗣 **Speech & NLP:** MFCC, LPCC, keyword spotting, diarization, Pyannote, Azure TTS  
 - 🗄 **Databases:** PostgreSQL, MongoDB, MySQL  
 - 🌐 **Web / Backend:** Flask, FastAPI, REST APIs, React, Supabase  
+- ☁️ **Cloud & Azure:** Azure App Service, Azure Functions, Azure Cognitive Services, Azure Storage, Azure Monitor  
 
 ---
 
@@ -107,4 +107,3 @@
 - 💻 [GitHub](https://github.com/Shobhanashankar)  
 - ✉️ `shobhana.shankar2006@gmail.com`  
 
-> If you’re into AI + security, or need a teammate who enjoys reading packets for fun, let’s talk.
