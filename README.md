@@ -37,8 +37,6 @@
 - 🛠 Currently: **IPTIF AGNI UG Fellow @ IIT Palakkad**, working on CNN-based bit prediction on SPECK32/64  
 - 💬 I like logs noisy, datasets messy, and models explainable  
 
-> “If it generates logs, I probably want to analyze it.”
-
 ---
 
 ### 🛡 What I work on
