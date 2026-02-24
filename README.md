@@ -4,8 +4,6 @@
 
 ---
 
-### 📊 Quick dashboard
-
 <p align="center">
   <!-- Badges row 1 -->
   <img src="https://img.shields.io/badge/AI%20%26%20Cybersecurity-ACTIVE-brightgreen?style=for-the-badge&logo=hackaday" />
