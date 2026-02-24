@@ -21,7 +21,7 @@
 - 🔭 Focus areas: **AI for Security, VoIP fraud, malware classification, DNS anomaly detection, OSINT tooling, neural cryptanalysis**  
 - 📂 Projects: **6+ security dashboards / consoles** (VoIP, malware, DNS, OSINT, study assistant, second brain)  
 - 🧪 Research: **CNN-based bit prediction & neural differential cryptanalysis** on lightweight block ciphers  
-- 💻 Comfort zone: **Python • ML backends • Flask • Azure Services **  
+- 💻 Comfort zone: *Python • ML backends • Flask • Azure Services *  
 - 🛡 Security themes: **VoIP | DNS | OSINT | threat intelligence**
 
 ---
