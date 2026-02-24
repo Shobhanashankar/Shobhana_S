@@ -4,10 +4,34 @@
 
 ---
 
+### 📊 Quick dashboard
+
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shobhanashankar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhanashankar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <!-- Badges row 1 -->
+  <img src="https://img.shields.io/badge/AI%20%26%20Cybersecurity-active-brightgreen?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/Projects-6%2B%20security%20dashboards-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Research-Neural%20Cryptanalysis-purple?style=for-the-badge&logo=protobuf" />
+</p>
+
+<p align="center">
+  <!-- Badges row 2: tech stack -->
+  <img src="https://img.shields.io/badge/Python-ML%20%7C%20Backend-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Frameworks-Flask%20%7C%20FastAPI%20%7C%20React-orange?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Security-VoIP%20%7C%20DNS%20%7C%20OSINT-red?style=for-the-badge&logo=protonvpn" />
+</p>
+
+---
+
 ### 🧠 About me
 
-- 🎓 3rd-year B.Tech in **Computer Science (Cyber Security)** @ Amrita Vishwa Vidyapeetham (CGPA: 9.12/10) [web:173]  
-- 🎓 **Diploma in Data Science & Programming** @ IIT Madras (Online) [web:171]  
+- 🎓 3rd-year B.Tech in **Computer Science (Cyber Security)** @ Amrita Vishwa Vidyapeetham (CGPA: 9.12/10)  
+- 🎓 **Diploma in Data Science & Programming** @ IIT Madras (Online)  
 - 🔐 Into **VoIP security, malware analysis, DNS anomaly detection, OSINT, and lightweight block cipher cryptanalysis**  
 - 🤖 Building **ML-driven security systems**: CNNs for bit prediction, neural distinguishers, anomaly detectors  
 - 🛠 Currently: **IPTIF AGNI UG Fellow @ IIT Palakkad**, working on CNN-based bit prediction on SPECK32/64  
@@ -45,7 +69,7 @@
 
 - 💻 **Languages:** Python, C/C++, JavaScript, SQL  
 - 🧮 **ML / AI:** TensorFlow, Scikit-learn, XGBoost, SHAP, Ray  
-- 🔐 **Security:** VoIP security, honeypots, KF sensors, Wireshark, RTP analysis, threat intel, OSINT [web:176]  
+- 🔐 **Security:** VoIP security, honeypots, KF sensors, Wireshark, RTP analysis, threat intel, OSINT  
 - 🗣 **Speech & NLP:** MFCC, LPCC, keyword spotting, diarization, Pyannote, Azure TTS  
 - 🗄 **Databases:** PostgreSQL, MongoDB, MySQL  
 - 🌐 **Web / Backend:** Flask, FastAPI, REST APIs, React, Supabase  
