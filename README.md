@@ -23,7 +23,7 @@
 - 🔭 Focus areas: **AI for Security, VoIP fraud, malware classification, DNS anomaly detection, OSINT tooling, neural cryptanalysis**  
 - 📂 Projects: **6+ security dashboards / consoles** (VoIP, malware, DNS, OSINT, study assistant, second brain)  
 - 🧪 Research: **CNN-based bit prediction & neural differential cryptanalysis** on lightweight block ciphers  
-- 💻 Comfort zone: **Python • ML backends • Flask / FastAPI • React • Azure**  
+- 💻 Comfort zone: **Python • ML backends • Flask • Azure Services **  
 - 🛡 Security themes: **VoIP | DNS | OSINT | threat intelligence**
 
 ---
@@ -34,8 +34,7 @@
 - 🎓 **Diploma in Data Science & Programming** @ IIT Madras (Online)  
 - 🔐 Into **VoIP security, malware analysis, DNS anomaly detection, OSINT, and lightweight block cipher cryptanalysis**  
 - 🤖 Building **ML-driven security systems**: CNNs for bit prediction, neural distinguishers, anomaly detectors  
-- 🛠 Currently: **IPTIF AGNI UG Fellow @ IIT Palakkad**, working on CNN-based bit prediction on SPECK32/64  
-- 💬 I like logs noisy, datasets messy, and models explainable  
+- 🛠 Currently: **IPTIF AGNI UG Fellow @ IIT Palakkad**, working on CNN-based bit prediction on SPECK32/64   
 
 ---
 
@@ -73,32 +72,6 @@
 - ☁️ **Cloud & Azure:** Azure App Service, Azure Functions, Azure Cognitive Services, Azure Storage, Azure Monitor  
 
 ---
-
-### 🚀 A few highlights
-
-- 🧪 **Neural Cryptanalysis**  
-  - CNN-based bit prediction and neural-network-driven differential cryptanalysis for lightweight block ciphers (SPECK32/64).  
-
-- 🏆 **Hackathons**  
-  - 1st place – IITM Azure Community Learning Series (EduBotAI+ – AI study assistant on Azure).  
-  - Finalist – Tamil Nadu Police Hackathon (VoIP fraud detection & threat monitoring).  
-  - Nominated team – Smart India Hackathon internal round (Smart Tourist Safety Monitoring & Incident Response System).  
-
-- 🗣 **Beyond code**  
-  - Amrita Toastmasters – Executive Committee & VP Public Relations.  
-  - Intel IoT Club – Tech Support Team Lead.  
-  - WiCys (Women in Cybersecurity) – Event Organizer.  
-
----
-
-### 🌱 Currently exploring
-
-- Better neural distinguishers for lightweight ciphers  
-- OSINT workflows for incident response  
-- Making security tools less boring and more **usable**  
-
----
-
 ### 📬 Find me elsewhere
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shobhana-shankar-b28026289)  
