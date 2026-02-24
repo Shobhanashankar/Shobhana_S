@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">hey, i'm Shobhana 👋</h1>
-<h3 align="center">AI + Cybersecurity • VoIP, malware, DNS, OSINT, dashboards & a bit of cryptanalysis chaos</h3>
+<h3 align="center">AI + Cybersecurity • VoIP, malware, DNS, OSINT & a bit of cryptanalysis chaos</h3>
 
 ---
 
