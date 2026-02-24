@@ -6,25 +6,11 @@
 
 ### 📊 Quick dashboard
 
-<p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shobhanashankar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhanashankar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <!-- Badges row 1 -->
-  <img src="https://img.shields.io/badge/AI%20%26%20Cybersecurity-active-brightgreen?style=for-the-badge&logo=hackaday" />
-  <img src="https://img.shields.io/badge/Projects-6%2B%20security%20dashboards-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Research-Neural%20Cryptanalysis-purple?style=for-the-badge&logo=protobuf" />
-</p>
-
-<p align="center">
-  <!-- Badges row 2: tech stack -->
-  <img src="https://img.shields.io/badge/Python-ML%20%7C%20Backend-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Frameworks-Flask%20%7C%20FastAPI%20%7C%20React-orange?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Security-VoIP%20%7C%20DNS%20%7C%20OSINT-red?style=for-the-badge&logo=protonvpn" />
-</p>
+- 🔭 Focus areas: **AI for Security, VoIP fraud, malware classification, DNS anomaly detection, OSINT tooling, neural cryptanalysis**
+- 📂 Projects: **6+ security dashboards / consoles** (VoIP, malware, DNS, OSINT, study assistant, second brain)
+- 🧪 Research: **CNN-based bit prediction & neural differential cryptanalysis** on lightweight block ciphers
+- 💻 Comfort zone: **Python • ML backends • Flask / FastAPI • React • Azure**
+- 🛡 Security themes: **VoIP | DNS | OSINT | threat intelligence**
 
 ---
 
@@ -105,5 +91,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shobhana-shankar-b28026289)  
 - 💻 [GitHub](https://github.com/Shobhanashankar)  
-- ✉️ `shobhana.shankar2006@gmail.com`  
-
+- ✉️ `shobhana.shankar2006@gmail.com`
